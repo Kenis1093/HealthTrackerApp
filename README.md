@@ -1,1 +1,1 @@
-# HealthTrackerApp
+# Health Tracker App - Database Setup
